@@ -1,0 +1,15 @@
+bin/
+common/
+hcapps/
+logs/
+temp/
+work/
+
+**/META-INF/
+**/static/
+**/WEB-INF/adapters/
+**/WEB-INF/backup/
+**/WEB-INF/classes/
+**/WEB-INF/jsp/
+**/WEB-INF/metadata/
+**/WEB-INF/tlr/
