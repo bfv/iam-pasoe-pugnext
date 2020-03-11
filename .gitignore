@@ -13,3 +13,10 @@ work/
 **/WEB-INF/jsp/
 **/WEB-INF/metadata/
 **/WEB-INF/tlr/
+
+conf/openedge.properties.*
+
+*.war
+
+favicon.ico
+index.jsp
